@@ -10,5 +10,7 @@
 - 
 
 
-**Схема пайплайна:** ![Image alt](https://github.com/LeshchenkoB/DE_exam/blob/main/Схема%20пайплайна.png)
-
+**Схема пайплайна:**
+<p align="center">
+<img  src="https://github.com/LeshchenkoB/DE_exam/blob/main/Схема%20пайплайна.png"  width="350" alt="Pipline"/>
+</p>
